@@ -9,7 +9,6 @@ prefer functional component than class component.
 you are feel free hiring me.
 🌍🌍🌍
 Skype:live:.cid.4e870f16fd2e6be7
-
 slack: polyansofine@gmail.com
 
 <div style="text-align: center">
@@ -77,3 +76,11 @@ slack: polyansofine@gmail.com
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)
+
+#### 📺 Quote from The Office
+
+I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
+
+> "If you pray enough, you can change yourself into a cat person."
+>
+> &mdash; <cite>Angela Martin</cite>
