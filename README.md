@@ -1,9 +1,3 @@
-So you might be wondering what is "wsfuller". Well I'm actually a William but I go by my middle name Steve. So now that's out of the way, I'm a Senior Software Engineer based out of Seattle, currently working for [TED Conferences](https://www.ted.com/).
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wsfuller-dev/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://wsfuller.medium.com/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3060325/wsfuller)
-
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400">
   <br />
