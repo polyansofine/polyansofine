@@ -9,6 +9,7 @@ prefer functional component than class component.
 you are feel free hiring me.
 🌍🌍🌍
 Skype:live:.cid.4e870f16fd2e6be7
+slack: polyansofine@gmail.com
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400">
